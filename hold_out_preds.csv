@@ -1,0 +1,71 @@
+labels,files,pred_labels
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/3-170015-A-0.wav,door knock
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/AnimalDog+6102_05_4.wav,dog bark
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/2-114280-A-0.wav,dog bark
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/Dog+HB02_80_2.wav,crying baby
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/4-182395-A-0.wav,door knock
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/1-30344-A-0.wav,dog bark
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/2-118964-A-0.wav,door knock
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/1-110389-A-0.wav,door knock
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/1-30226-A-0.wav,air conditioner
+dog bark,/Users/Labi/V_env/sound_event_recognition/hold_out_set/dog bark/AnimalDogSamoyed+6003_51_1.wav,dog bark
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/DoorKnock+6105_29_5.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/4-261068-A-30.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/DOOR-KNOCK_GEN-HDF-09699.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/GLASS-HIT_GEN-HDF-12932.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/DOOR-KNOCK_GEN-HDF-09714.wav,air conditioner
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/DOOR-KNOCK_GEN-HDF-09719.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/5-218980-A-30.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/5-218981-A-30.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/3-170574-A-30.wav,door knock
+door knock,/Users/Labi/V_env/sound_event_recognition/hold_out_set/door knock/DoorKnocker+6048_34_2.wav,door knock
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/182800-2-1-0.wav,air conditioner
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/138031-2-0-47.wav,door knock
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/155238-2-0-97.wav,children palying
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/133090-2-0-20.wav,air conditioner
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/187110-2-0-30.wav,air conditioner
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/206037-2-0-11.wav,air conditioner
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/164797-2-0-29.wav,air conditioner
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/132855-2-0-70.wav,children palying
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/174032-2-0-11.wav,children palying
+children palying,/Users/Labi/V_env/sound_event_recognition/hold_out_set/children palying/47019-2-0-42.wav,dog bark
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/146845-0-0-21.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/177726-0-0-5.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/184805-0-0-34.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/121286-0-0-12.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/167464-0-0-11.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/195969-0-0-6.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/189988-0-0-5.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/55018-0-0-148.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/85569-0-0-5.wav,air conditioner
+air conditioner,/Users/Labi/V_env/sound_event_recognition/hold_out_set/air conditioner/185709-0-0-6.wav,air conditioner
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/Fire+IN17_15.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/Fire_DIGIP03-31.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/FireBonfire+6015_13.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/Fire+6095_19.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/4-181563-A-12.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/3-120644-A-12.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/Fire+PS01_98.wav,door knock
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/1-17150-A-12.wav,fire
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/5-189237-A-12.wav,air conditioner
+fire,/Users/Labi/V_env/sound_event_recognition/hold_out_set/fire/Fire+6049_21.wav,fire
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/ElectronicAlarm+L2SF2_29.wav,fire
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/AlarmAirplane+SUP01_02_3.wav,crying baby
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/3-132340-A-37.wav,fire
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/2-89516-A-37.wav,dog bark
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/2-96063-A-37.wav,alarm
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/5-234247-A-37.wav,crying baby
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/5-211408-A-37.wav,fire
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/1-96890-A-37.wav,alarm
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/AlarmElectronic+SFSE02_09_1.wav,dog bark
+alarm,/Users/Labi/V_env/sound_event_recognition/hold_out_set/alarm/3-131943-A-37.wav,alarm
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/HUMAN-BABY_GEN-HDF-14827.wav,crying baby
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/1-211527-B-20.wav,children palying
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/Baby+2012_51.wav,alarm
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/HumanBaby+CTV05_40_02.wav,children palying
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/4-59579-B-20.wav,crying baby
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/1-187207-A-20.wav,children palying
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/1-211527-C-20.wav,crying baby
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/5-198411-A-20.wav,crying baby
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/4-167077-C-20.wav,crying baby
+crying baby,/Users/Labi/V_env/sound_event_recognition/hold_out_set/crying baby/HumanBaby_DIGII04-01.wav,children palying
